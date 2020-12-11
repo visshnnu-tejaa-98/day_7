@@ -29,6 +29,10 @@ ul li{
     list-style-type: none;
     text-align: left;
 }
+ol li{
+    list-style-type: none;
+    text-align: left;
+}
 .personaldetails{
     display: block;
 }
